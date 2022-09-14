@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-![logo](/AjayBlogs.github.io/docs/assets/logo.png)
+![logo](./assets/logo.png)
