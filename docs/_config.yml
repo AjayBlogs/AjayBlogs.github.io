@@ -32,7 +32,7 @@ github_username:  jekyll
 
 
 # Build settings
-theme: Hacker
+theme: Minimal
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
