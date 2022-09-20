@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to 1CloudHub Blogs"
+title:  "Welcome"
 date:   2022-09-20 04:15:48 +0000
 categories: jekyll update
 ---
 
-Welcome!
+Welcome to 1CloudHub Blogs!
