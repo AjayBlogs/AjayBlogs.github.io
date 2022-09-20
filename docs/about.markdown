@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-![logo](./assets/logo.png)
+About 

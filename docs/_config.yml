@@ -21,10 +21,7 @@
 title: Partner organization - AWS blogs
 email: reblog-admin@partner-org.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site contains blog posts on AWS services from Partner organisation.
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Site for blogs 
 baseurl: "" #remote_theme: pages-themes/minimal@v0.2.0
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -32,11 +29,11 @@ github_username:  jekyll
 
 
 # Build settings
-theme: Minimal
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-remote_theme: pages-themes/minimal@v0.2.0  
+# remote_theme: pages-themes/minimal@v0.2.0  
 logo: logo.png
 # Exclude from processing.
 # The following items will not be processed, by default.
