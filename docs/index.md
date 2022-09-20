@@ -1,5 +1,6 @@
 ---
 layout: default
+logo: alsprolog-logo.png
 ---
 # ALS Prolog
 
