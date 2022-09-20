@@ -1,5 +1,5 @@
 ---
-title: About 1CloudHub
+title: About
 ---
 
 
