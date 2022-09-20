@@ -1,10 +1,9 @@
 # Site settings
-title: ALS Prolog
-url: https://alsprolog.com
-description: ALS Prolog Compiler & Development Environment
-author: Applied Logic Systems, Inc.
-email: support@applied-logic-systems.com
-logo: /apple-touch-icon.png
+title: 1CloudHub - Blogs
+description: This site contains well articulated blog posts on AWS services from 1CloudHub.
+author: 1CloudHub
+email: contactus@1cloudhub.com
+logo: /1ch-logo.png
 
 # Analytics for production (Piwik/Matomo substituting for GA)
 google_analytics: 6
@@ -35,8 +34,8 @@ exclude:
   - src_help_md
 
 header_pages:
-  - docs/index.md
   - about.md
+  - contacts.md
 
 ref_packages:
   - Core Prolog
