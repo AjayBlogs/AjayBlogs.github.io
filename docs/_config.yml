@@ -35,6 +35,7 @@ exclude:
   - src_help_md
 
 header_pages:
+
   - docs/index.md
   - about.md
 
@@ -61,3 +62,11 @@ defaults:
       type: "pages"
     values:
       layout: "guide-page"
+vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
